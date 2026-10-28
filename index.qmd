@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: New_profile_pic.png
+  image: "New_profile_pic.png"
 ---
 
 :::{#me}
