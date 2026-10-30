@@ -10,9 +10,13 @@ about:
 I am an undergraduate student in the Marine, Estuarine, and Freshwater Biology program at the University of New Hampshire.
 
 ## Goals
+<<<<<<< HEAD
 - To take over the tri-state area
 - To bust my brothers
 - To find out what I'm going to do today
+=======
+I am interested in coastal restoration work to build climate resiliency while simultaneously educating and engaging vulnerable coastal communities.
+>>>>>>> 7a8a915de4b661f1cc6ad17e70c748bbdac8fe59
 
 ## Education
 - Hogwarts School of Witchcraft and Wizardry
