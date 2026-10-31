@@ -1,0 +1,78 @@
+---
+title: "CV"
+layout: cv
+permalink: /cv/
+nav: true
+nav_order: 5
+cv_pdf: Resume_2026.pdf
+cv_format: rendercv
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc: true
+---
+
+Alex Marshall 
+Durham, NH | 815.980.2594 | alexmarshall216@gmail.com 
+EDUCATION 
+University of New Hampshire, Durham, NH 
+Anticipated Graduation: May 2028 
+Bachelor of Science in Marine, Estuarine, and Freshwater Biology                                                         
+GPA: 3.9 
+• Trustee’s Scholarship 
+• Dean’s List, Highest Honors, Fall 2024, Spring and Fall 2025 
+Coursework: Honors Introductory Biology: Evolution, Biodiversity and Ecology with Lab, Honors 
+Contemporary Conservation Issues, Ecology, Honors Introductory Biology: Molecular and Cellular, 
+Introduction to Marine Biology, Organic Chemistry 
+SKILLS AND CERTIFICATIONS 
+Field Skills: Species identification; quadrat and transect sampling; data recording; use of field guides; use 
+of pH/temperature probe; use of PAR sensor; mist net handling; bird extraction 
+Lab Skills: Report writing; maintain detailed lab notebook; gel electrophoresis; density separation; PCR; 
+DNA extraction, microscopy, thin layer chromatography 
+RESEARCH EXPERIENCE 
+UNH Coastal Restoration and Resiliency Lab, Durham, NH                                    
+2025-Present 
+Undergraduate Researcher 
+• Filtered and sorted coastal sediment samples as part of microplastics research 
+• Processed bog sediment cores through homogenization, organic digestion, and density separation 
+to examine microplastic content through a microscope 
+• Collaborated on poster Are Microplastics Ubiquitous in Freshwater Wetlands for the April 26th, 
+2025 UNH Undergraduate Research Conference 
+Rockford University Bird Banding Project, Rockford, IL    
+Volunteer 
+August-November 2021-2023 
+• Set up mist nets once a week in the forest, maintaining them during workdays by removing 
+debris, disentangling roughly 20 birds an hour, and deterring predators  
+• Recorded data, including weight, tarsus, wing length, sex, and approximate age, on roughly 20 
+birds a week, from a variety of songbird species 
+• Worked with other members of the project to efficiently remove birds in the least amount of time 
+possible, while avoiding deterring other birds from entering the mist nets 
+WORK EXPERIENCE 
+Community Foundation of Northern Illinois Internship, Rockford, IL                              
+Intern 
+• Coordinated outreach to underserved communities within the service area 
+Summer 2025 
+• Conducted archival interviews with donors 
+• Supported youth program engaging local teenagers with philanthropy 
+Severson Dells Nature Center, Rockford, IL 
+Summer Camp Staff 
+Summer 2023 – 2024 
+• Assisted with camp preparation and childcare in a nature-based education setting 
+• Developed knowledge of Illinois forest and prairie ecology  
+• Maintained garden and natural playground through weeding 
+CONFERENCE PRESENTATIONS AND POSTERS 
+Franzoni, C., Marshall, A., Wilkins, L., Ciampitti, R., Jarrett, G., and G. Moore. (2025)  
+Are Microplastics Ubiquitous in Freshwater Wetlands?  Examination of Peat Deposits in a 
+Remote Atlantic White Cedar Bog in Bradford, NH. Undergraduate Research Conference, 26 
+April 2025, University of New Hampshire, Durham, NH 
+CAMPUS ACTIVITIES 
+New Hampshire Youth Movement, Durham, NH 
+Volunteer 
+• Helped to plan campaigns to improve student life on campus 
+• Attended rallies at the state capital to generate support for university funding 
+• Spread awareness on campus of youth issues 
+University of New Hampshire Campus Democrats, Durham, NH 
+2025-Present 
+August 2024-Present 
+Volunteer 
+• Participated in activities like canvassing and phone banking to encourage voting and gauge 
+support for Democratic candidates 
+• Attended weekly meetings to discuss the state of politics in New Hampshire
