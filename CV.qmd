@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: "CV"
 layout: cv
 permalink: /cv/
@@ -7,142 +6,145 @@ nav: true
 nav_order: 5
 cv_pdf: Resume_2026.pdf
 cv_format: rendercv
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: My resume as of August, 2026
 toc: true
 ---
 
 Alex Marshall 
+<br>
 Durham, NH | 815.980.2594 | alexmarshall216@gmail.com 
+<br>
+<br>
 EDUCATION 
+<br>
 University of New Hampshire, Durham, NH 
+<br>
 Anticipated Graduation: May 2028 
-Bachelor of Science in Marine, Estuarine, and Freshwater Biology                                                         
-GPA: 3.9 
+<br>
+Bachelor of Science in Marine, Estuarine, and Freshwater Biology
+<br>
+GPA: 3.9
+<br>
 • Trustee’s Scholarship 
-• Dean’s List, Highest Honors, Fall 2024, Spring and Fall 2025 
-Coursework: Honors Introductory Biology: Evolution, Biodiversity and Ecology with Lab, Honors 
-Contemporary Conservation Issues, Ecology, Honors Introductory Biology: Molecular and Cellular, 
-Introduction to Marine Biology, Organic Chemistry 
+<br>
+• Dean’s List, Highest Honors, Fall 2024, Spring and Fall 2025
+<br>
+Coursework: Honors Introductory Biology: Evolution, Biodiversity and Ecology with Lab, Honors
+<br>
+Contemporary Conservation Issues, Ecology, Honors Introductory Biology: Molecular and 
+<br>
+Cellular, Introduction to Marine Biology, Organic Chemistry 
+<br>
+<br>
 SKILLS AND CERTIFICATIONS 
-Field Skills: Species identification; quadrat and transect sampling; data recording; use of field guides; use 
-of pH/temperature probe; use of PAR sensor; mist net handling; bird extraction 
-Lab Skills: Report writing; maintain detailed lab notebook; gel electrophoresis; density separation; PCR; 
-DNA extraction, microscopy, thin layer chromatography 
+<br>
+Field Skills: Species identification; quadrat and transect sampling; data recording; use of 
+<br>
+field guides; use of pH/temperature probe; use of PAR sensor; mist net handling; bird 
+<br>
+extraction 
+<br>
+Lab Skills: Report writing; maintain detailed lab notebook; gel electrophoresis; density 
+<br>
+separation; PCR; DNA extraction, microscopy, thin layer chromatography
+<br>
+<br>
 RESEARCH EXPERIENCE 
-UNH Coastal Restoration and Resiliency Lab, Durham, NH                                    
+<br>
+UNH Coastal Restoration and Resiliency Lab, Durham, NH
+<br>
 2025-Present 
+<br>
 Undergraduate Researcher 
+<br>
 • Filtered and sorted coastal sediment samples as part of microplastics research 
-• Processed bog sediment cores through homogenization, organic digestion, and density separation 
-to examine microplastic content through a microscope 
-• Collaborated on poster Are Microplastics Ubiquitous in Freshwater Wetlands for the April 26th, 
-2025 UNH Undergraduate Research Conference 
-Rockford University Bird Banding Project, Rockford, IL    
+<br>
+• Processed bog sediment cores through homogenization, organic digestion, and density 
+<br>
+separation to examine microplastic content through a microscope 
+<br>
+• Collaborated on poster Are Microplastics Ubiquitous in Freshwater Wetlands for the April 
+<br>
+26th, 2025 UNH Undergraduate Research Conference 
+<br>
+Rockford University Bird Banding Project, Rockford, IL
+<br>
 Volunteer 
+<br>
 August-November 2021-2023 
+<br>
 • Set up mist nets once a week in the forest, maintaining them during workdays by removing 
-debris, disentangling roughly 20 birds an hour, and deterring predators  
-• Recorded data, including weight, tarsus, wing length, sex, and approximate age, on roughly 20 
-birds a week, from a variety of songbird species 
-• Worked with other members of the project to efficiently remove birds in the least amount of time 
-possible, while avoiding deterring other birds from entering the mist nets 
+<br>
+debris, disentangling roughly 20 birds an hour, and deterring predators
+<br>
+• Recorded data, including weight, tarsus, wing length, sex, and approximate age, on roughly <br>
+20 birds a week, from a variety of songbird species 
+<br>
+• Worked with other members of the project to efficiently remove birds in the least amount 
+<br>
+of time possible, while avoiding deterring other birds from entering the mist nets 
+<br>
+<br>
 WORK EXPERIENCE 
-Community Foundation of Northern Illinois Internship, Rockford, IL                              
+<br>
+Community Foundation of Northern Illinois Internship, Rockford, IL
+<br>
 Intern 
-• Coordinated outreach to underserved communities within the service area 
+<br>
 Summer 2025 
+<br>
+• Coordinated outreach to underserved communities within the service area 
+<br>
 • Conducted archival interviews with donors 
+<br>
 • Supported youth program engaging local teenagers with philanthropy 
+<br>
 Severson Dells Nature Center, Rockford, IL 
+<br>
 Summer Camp Staff 
+<br>
 Summer 2023 – 2024 
+<br>
 • Assisted with camp preparation and childcare in a nature-based education setting 
-• Developed knowledge of Illinois forest and prairie ecology  
+<br>
+• Developed knowledge of Illinois forest and prairie ecology
+<br>
 • Maintained garden and natural playground through weeding 
+<br>
+<br>
 CONFERENCE PRESENTATIONS AND POSTERS 
-Franzoni, C., Marshall, A., Wilkins, L., Ciampitti, R., Jarrett, G., and G. Moore. (2025)  
+<br>
+Franzoni, C., Marshall, A., Wilkins, L., Ciampitti, R., Jarrett, G., and G. Moore. (2025)
+<br>
 Are Microplastics Ubiquitous in Freshwater Wetlands?  Examination of Peat Deposits in a 
+<br>
 Remote Atlantic White Cedar Bog in Bradford, NH. Undergraduate Research Conference, 26 
+<br>
 April 2025, University of New Hampshire, Durham, NH 
+<br>
+<br>
 CAMPUS ACTIVITIES 
+<br>
 New Hampshire Youth Movement, Durham, NH 
+<br>
+2025-Present
+<br>
 Volunteer 
+<br>
 • Helped to plan campaigns to improve student life on campus 
+<br>
 • Attended rallies at the state capital to generate support for university funding 
+<br>
 • Spread awareness on campus of youth issues 
+<br>
 University of New Hampshire Campus Democrats, Durham, NH 
-2025-Present 
+<br>
 August 2024-Present 
+<br>
 Volunteer 
-• Participated in activities like canvassing and phone banking to encourage voting and gauge 
-support for Democratic candidates 
+<br>
+• Participated in activities like canvassing and phone banking to encourage voting and gauge
+<br>
+support for Democratic candidates
+<br>
 • Attended weekly meetings to discuss the state of politics in New Hampshire
-=======
-layout: cv
-permalink: /cv/
-title: CV
-nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
----
-Alex Marshall
-Durham, NH | 815.980.2594 | alexmarshall216@gmail.com
-
-EDUCATION
-University of New Hampshire, Durham, NH	Anticipated Graduation: May 2028
-Bachelor of Science in Marine, Estuarine, and Freshwater Biology	                                                        GPA: 3.9
-•	Trustee’s Scholarship
-•	Dean’s List, Highest Honors, Fall 2024, Spring and Fall 2025, Spring 2026
-
-Coursework: Honors Introductory Biology: Evolution, Biodiversity and Ecology, Honors Introductory Biology: Molecular and Cellular, Introduction to Marine Biology, Organic Chemistry, Introduction to GIS, Marine Ecosystem Research and Management, Honors Principles of Genetics, Applied Biostatistics
-
-SKILLS AND CERTIFICATIONS
-Field Skills: Species identification; quadrat and transect sampling; data recording; use of field guides; use of pH/temperature probe; use of PAR sensor; mist net handling; bird extraction
-Lab Skills: Report writing; maintain detailed lab notebook; gel electrophoresis; density separation; PCR; DNA extraction; microscopy; thin layer chromatography
-Technical Skills: ArcGIS software; JMP; Microsoft Excel for data analysis
-RESEARCH EXPERIENCE
-UNH Coastal Restoration and Resiliency Lab, Durham, NH                                                    2025-2026
-Undergraduate Researcher
-•	Filtered and sorted coastal sediment samples as part of microplastics research
-•	Processed bog sediment cores through homogenization, organic digestion, and density separation to examine microplastic content through a microscope
-•	Collaborated on poster Are Microplastics Ubiquitous in Freshwater Wetlands for the April 26th, 2025 UNH Undergraduate Research Conference
-
-Rockford University Bird Banding Project, Rockford, IL   	August-November 2021-2023
-Volunteer
-•	Set up mist nets once a week in the forest, maintaining them during workdays by removing debris, disentangling roughly 20 birds an hour, and deterring predators 
-•	Recorded data, including weight, tarsus, wing length, sex, and approximate age, on roughly 20 birds a week, from a variety of songbird species
-•	Worked with other members of the project to efficiently remove birds in the least amount of time possible, while avoiding deterring other birds from entering the mist nets
-WORK EXPERIENCE
-Community Foundation of Northern Illinois Internship, Rockford, IL                              Summer 2025
-Intern
-•	Coordinated outreach to underserved communities within the service area
-•	Conducted archival interviews with donors
-•	Supported youth program engaging local teenagers with philanthropy
-
-Severson Dells Nature Center, Rockford, IL	Summer 2023 – 2024
-Summer Camp Staff
-•	Assisted with camp preparation and childcare in a nature-based education setting
-•	Developed knowledge of Illinois forest and prairie ecology 
-•	Maintained garden and natural playground through weeding
-
-CONFERENCE PRESENTATIONS AND POSTERS
-Franzoni, C., Marshall, A., Wilkins, L., Ciampitti, R., Jarrett, G., and G. Moore. (2025) 
-Are Microplastics Ubiquitous in Freshwater Wetlands?  Examination of Peat Deposits in a Remote Atlantic White Cedar Bog in Bradford, NH. Undergraduate Research Conference, 26 April 2025, University of New Hampshire, Durham, NH
-
-CAMPUS ACTIVITIES
-New Hampshire Youth Movement, Durham, NH	2025-Present
-Volunteer
-•	Helped to plan campaigns to improve campus accessibility and medication access for UNH students
-•	Led the NHYM Climate Team in beginning to develop a UNH climate network among campus organizations
-•	Attended rallies at the state capital to generate support for university funding
-
-University of New Hampshire Campus Democrats, Durham, NH	August 2024-Present
-Volunteer
-•	Participated in activities like canvassing and phone banking to encourage voting and gauge support for Democratic candidates
-•	Attended weekly meetings to discuss the state of politics in New Hampshire
-•	Served as Advocacy Committee chair, coordinating club actions against “campus carry” legislation
->>>>>>> 32bedb132be4f61d3051b2d9cb8fb0dea8375136

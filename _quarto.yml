@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "testwebsitebio706"
   navbar:
@@ -9,8 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
-      - href: CV.qmd
-      - text: CV
+      - CV.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -26,4 +25,3 @@ format:
     toc: true
 
 editor: source
-
