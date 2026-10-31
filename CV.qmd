@@ -10,3 +10,59 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+Alex Marshall
+Durham, NH | 815.980.2594 | alexmarshall216@gmail.com
+
+EDUCATION
+University of New Hampshire, Durham, NH	Anticipated Graduation: May 2028
+Bachelor of Science in Marine, Estuarine, and Freshwater Biology	                                                        GPA: 3.9
+•	Trustee’s Scholarship
+•	Dean’s List, Highest Honors, Fall 2024, Spring and Fall 2025, Spring 2026
+
+Coursework: Honors Introductory Biology: Evolution, Biodiversity and Ecology, Honors Introductory Biology: Molecular and Cellular, Introduction to Marine Biology, Organic Chemistry, Introduction to GIS, Marine Ecosystem Research and Management, Honors Principles of Genetics, Applied Biostatistics
+
+SKILLS AND CERTIFICATIONS
+Field Skills: Species identification; quadrat and transect sampling; data recording; use of field guides; use of pH/temperature probe; use of PAR sensor; mist net handling; bird extraction
+Lab Skills: Report writing; maintain detailed lab notebook; gel electrophoresis; density separation; PCR; DNA extraction; microscopy; thin layer chromatography
+Technical Skills: ArcGIS software; JMP; Microsoft Excel for data analysis
+RESEARCH EXPERIENCE
+UNH Coastal Restoration and Resiliency Lab, Durham, NH                                                    2025-2026
+Undergraduate Researcher
+•	Filtered and sorted coastal sediment samples as part of microplastics research
+•	Processed bog sediment cores through homogenization, organic digestion, and density separation to examine microplastic content through a microscope
+•	Collaborated on poster Are Microplastics Ubiquitous in Freshwater Wetlands for the April 26th, 2025 UNH Undergraduate Research Conference
+
+Rockford University Bird Banding Project, Rockford, IL   	August-November 2021-2023
+Volunteer
+•	Set up mist nets once a week in the forest, maintaining them during workdays by removing debris, disentangling roughly 20 birds an hour, and deterring predators 
+•	Recorded data, including weight, tarsus, wing length, sex, and approximate age, on roughly 20 birds a week, from a variety of songbird species
+•	Worked with other members of the project to efficiently remove birds in the least amount of time possible, while avoiding deterring other birds from entering the mist nets
+WORK EXPERIENCE
+Community Foundation of Northern Illinois Internship, Rockford, IL                              Summer 2025
+Intern
+•	Coordinated outreach to underserved communities within the service area
+•	Conducted archival interviews with donors
+•	Supported youth program engaging local teenagers with philanthropy
+
+Severson Dells Nature Center, Rockford, IL	Summer 2023 – 2024
+Summer Camp Staff
+•	Assisted with camp preparation and childcare in a nature-based education setting
+•	Developed knowledge of Illinois forest and prairie ecology 
+•	Maintained garden and natural playground through weeding
+
+CONFERENCE PRESENTATIONS AND POSTERS
+Franzoni, C., Marshall, A., Wilkins, L., Ciampitti, R., Jarrett, G., and G. Moore. (2025) 
+Are Microplastics Ubiquitous in Freshwater Wetlands?  Examination of Peat Deposits in a Remote Atlantic White Cedar Bog in Bradford, NH. Undergraduate Research Conference, 26 April 2025, University of New Hampshire, Durham, NH
+
+CAMPUS ACTIVITIES
+New Hampshire Youth Movement, Durham, NH	2025-Present
+Volunteer
+•	Helped to plan campaigns to improve campus accessibility and medication access for UNH students
+•	Led the NHYM Climate Team in beginning to develop a UNH climate network among campus organizations
+•	Attended rallies at the state capital to generate support for university funding
+
+University of New Hampshire Campus Democrats, Durham, NH	August 2024-Present
+Volunteer
+•	Participated in activities like canvassing and phone banking to encourage voting and gauge support for Democratic candidates
+•	Attended weekly meetings to discuss the state of politics in New Hampshire
+•	Served as Advocacy Committee chair, coordinating club actions against “campus carry” legislation
