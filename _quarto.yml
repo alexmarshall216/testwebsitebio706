@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - href: CV.qmd
+      - text: CV
     tools:
       - icon: twitter
         href: https://twitter.com/
